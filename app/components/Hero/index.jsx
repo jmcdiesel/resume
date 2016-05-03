@@ -9,9 +9,9 @@ export default class Hero extends React.Component {
       <div className="ui inverted vertical masthead center aligned segment hero">
         <div className="ui text container">
           <h1 classname="ui inverted header">
-            Xxxxxx XxXxxxxx
+            Joshua McDonald
           </h1>
-          <h2>Xxxx-Xxxxx Xxxxxxxxx
+          <h2>Full-Stack Developer
             <div className="sub header location">Austin, TX</div>
           </h2>
         </div>
