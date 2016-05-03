@@ -1,0 +1,15 @@
+div.masthead.hero {
+
+  background-image: url("../../static/sunset.jpg")!important;
+  background-size: cover!important;
+  min-height: 50vh;
+  padding-top: 20vh;
+
+  text-shadow: 1px 1px 1px #000;
+
+  .sub.header.location {
+    opacity: 0.6;
+    font-size: 0.6em;
+  }
+
+}

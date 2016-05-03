@@ -1,0 +1,71 @@
+{
+  "skills": {
+    "angularjs": ["Angular JS"],
+    "apache": ["Apache"],
+    "css3": ["CSS"],
+    "django": ["Django"],
+    "git": ["git"],
+    "grunt": ["Grunt"],
+    "gulp": ["Gulp"],
+    "heroku": ["Heroku"],
+    "html5": ["HTML"],
+    "java": ["Java"],
+    "javascript": ["Javascript"],
+    "jquery": ["jQuery"],
+    "laravel": ["Laravel"],
+    "less": ["Less", "devicon-less-plain-wordmark"],
+    "linux": ["Linux"],
+    "mysql": ["MySQL"],
+    "nodejs": ["Node.js"],
+    "php": ["PHP"],
+    "python": ["Python"],
+    "react": ["React"],
+    "sass": ["SASS"],
+    "ssh": ["SSH"],
+    "vim": ["VIM"],
+    "wordpress": ["Wordpress"],
+    "zend": ["Zend Framework"]
+  },
+  "experience": [
+    {
+      "title": "Blizzard Entertainment",
+      "location": "Austin, TX",
+      "dates": "Nov 2014 - Present",
+      "position": "Software Engineer - Web",
+      "description": "I maintained existing codebase and implemented new features in the Battle.net Account Management system, including work to migrate the current codebase from Spring 3 to Spring 4 and Java 8.  I constantly worked with multiple teams across the company to deliver new platform features as new products were released.",
+      "image": "blizzard.jpg"
+    },
+    {
+      "title": "White Lion Interactive",
+      "location": "Austin, TX",
+      "dates": "May 2014 - Oct 2014",
+      "position": "Full Stack Developer",
+      "description": "My role at White Lion was an all-around developer.  I worked primarily on the backend of multiple sites, whos lifespan was as high as 10 years.  Laravel and Kohana (in various forms) were the primary frameworks we worked in.  I was able to implement more modern techniques and frameworks like Angular and React into projects that would benifit from them.",
+      "image": "wlion.jpg"
+    },
+    {
+      "title": "Redhead Labs, LLC",
+      "location": "Tulsa, OK",
+      "dates": "Mar 2014 - May 2014",
+      "position": "Developer",
+      "description": "Redhead Labs is primarily an agency built around providing customers with custom e-commerce solutions built on the BigCommerce platform.  I worked as a full-stack developer providing start-to-finish development of projects including implementing custom BigCommerce plugins.",
+      "image": "redhead.png"
+    },
+    {
+      "title": "HAUS",
+      "location": "Los Angeles, CA",
+      "dates": "Jun 2012 - Feb 2014",
+      "position": "Sr. Developer",
+      "description": "While working at HAUS, I picked up python and django development.  I worked initially as the lead developer on the Toyota Owners' site, but always had other ongoing projects to manage as well. I also served as a primary DevOps engineer as we transitioned into a Heroku based development workflow.",
+      "image": "haus.png"
+    },
+    {
+      "title": "GROW Interactive",
+      "location": "Norfolk, VA",
+      "dates": "Jun 2005 - Dec 2011",
+      "position": "Sr. Developer",
+      "description": "Grow was the first agency I worked for, and we went from the owner's house to a multi-million dollar renovated office in Downtown Norfolk VA, serving clients like Google and FedEX, through agencies like Saatchi and Saatchi and Goodby, Silverstein & Partners. I was the primary Backend Developer, Lead Developer and unofficial DevOps engineer. I worked in basically everyting but flash.",
+      "image": "grow.png"
+    }
+  ]
+}
