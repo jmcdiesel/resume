@@ -18,6 +18,7 @@ export default class Resume extends React.Component {
         <Skills data={this.props.data.skills}/>
         <Divider icon="building">Where I've Done It</Divider>
         <Experience data={this.props.data.experience}/>
+        <Divider icon="certificate" />
       </div>
     )
   }
